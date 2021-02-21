@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Lorenzo-Perez/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Lorenzo-Perez/static/js/main.82d5a0c6.chunk.js",
+    "main.js.map": "/Lorenzo-Perez/static/js/main.82d5a0c6.chunk.js.map",
+    "runtime-main.js": "/Lorenzo-Perez/static/js/runtime-main.cc0f4194.js",
+    "runtime-main.js.map": "/Lorenzo-Perez/static/js/runtime-main.cc0f4194.js.map",
+    "static/js/2.f9958b27.chunk.js": "/Lorenzo-Perez/static/js/2.f9958b27.chunk.js",
+    "static/js/2.f9958b27.chunk.js.map": "/Lorenzo-Perez/static/js/2.f9958b27.chunk.js.map",
+    "static/js/3.17de7f3a.chunk.js": "/Lorenzo-Perez/static/js/3.17de7f3a.chunk.js",
+    "static/js/3.17de7f3a.chunk.js.map": "/Lorenzo-Perez/static/js/3.17de7f3a.chunk.js.map",
+    "index.html": "/Lorenzo-Perez/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Lorenzo-Perez/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f9958b27.chunk.js.LICENSE.txt": "/Lorenzo-Perez/static/js/2.f9958b27.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Lorenzo-Perez/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc0f4194.js",
+    "static/js/2.f9958b27.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.82d5a0c6.chunk.js"
+  ]
+}
